@@ -1,0 +1,140 @@
+D:\Công Nghệ Web\DoAn\QuanLyShopDT\QuanLyShopDT\bin\Debug\QuanLyShopDT.exe.config
+D:\Công Nghệ Web\DoAn\QuanLyShopDT\QuanLyShopDT\obj\Debug\QuanLyShopDT.Properties.Resources.resources
+D:\Công Nghệ Web\DoAn\QuanLyShopDT\QuanLyShopDT\obj\Debug\QuanLyShopDT.csproj.GenerateResource.Cache
+D:\Công Nghệ Web\DoAn\QuanLyShopDT\QuanLyShopDT\bin\Debug\QuanLyShopDT.exe
+D:\Công Nghệ Web\DoAn\QuanLyShopDT\QuanLyShopDT\bin\Debug\QuanLyShopDT.pdb
+D:\Công Nghệ Web\DoAn\QuanLyShopDT\QuanLyShopDT\obj\Debug\QuanLyShopDT.DangNhap.resources
+D:\Công Nghệ Web\DoAn\QuanLyShopDT\QuanLyShopDT\obj\Debug\QuanLyShopDT.Main.resources
+D:\Công Nghệ Web\DoAn\QuanLyShopDT\QuanLyShopDT\obj\Debug\QuanLyShopDT.exe
+D:\Công Nghệ Web\DoAn\QuanLyShopDT\QuanLyShopDT\obj\Debug\QuanLyShopDT.pdb
+D:\Công Nghệ Web\DoAn\QuanLyShopDT\QuanLyShopDT\obj\Debug\QuanLyShopDT.SanPham.resources
+D:\Công Nghệ Web\DoAn\QuanLyShopDT\QuanLyShopDT\obj\Debug\QuanLyShopDT.ShowHome.resources
+D:\Công Nghệ Web\DoAn\QuanLyShopDT\QuanLyShopDT\obj\Debug\QuanLyShopDT.csprojResolveAssemblyReference.cache
+D:\Công Nghệ .Net\DoAn\QuanLyShopDT\QuanLyShopDT\bin\Debug\QuanLyShopDT.exe.config
+D:\Công Nghệ .Net\DoAn\QuanLyShopDT\QuanLyShopDT\bin\Debug\QuanLyShopDT.exe
+D:\Công Nghệ .Net\DoAn\QuanLyShopDT\QuanLyShopDT\bin\Debug\QuanLyShopDT.pdb
+D:\Công Nghệ .Net\DoAn\QuanLyShopDT\QuanLyShopDT\obj\Debug\QuanLyShopDT.DangNhap.resources
+D:\Công Nghệ .Net\DoAn\QuanLyShopDT\QuanLyShopDT\obj\Debug\QuanLyShopDT.Main.resources
+D:\Công Nghệ .Net\DoAn\QuanLyShopDT\QuanLyShopDT\obj\Debug\QuanLyShopDT.Properties.Resources.resources
+D:\Công Nghệ .Net\DoAn\QuanLyShopDT\QuanLyShopDT\obj\Debug\QuanLyShopDT.SanPham.resources
+D:\Công Nghệ .Net\DoAn\QuanLyShopDT\QuanLyShopDT\obj\Debug\QuanLyShopDT.ShowHome.resources
+D:\Công Nghệ .Net\DoAn\QuanLyShopDT\QuanLyShopDT\obj\Debug\QuanLyShopDT.csproj.GenerateResource.cache
+D:\Công Nghệ .Net\DoAn\QuanLyShopDT\QuanLyShopDT\obj\Debug\QuanLyShopDT.exe
+D:\Công Nghệ .Net\DoAn\QuanLyShopDT\QuanLyShopDT\obj\Debug\QuanLyShopDT.pdb
+D:\Công Nghệ .Net\DoAn\QuanLyShopDT\QuanLyShopDT\obj\Debug\QuanLyShopDT.Employee.resources
+D:\Công Nghệ .Net\DoAn\QuanLyShopDT\QuanLyShopDT\obj\Debug\QuanLyShopDT.csprojResolveAssemblyReference.cache
+D:\Công Nghệ .Net\DoAn\QuanLyShopDT\QuanLyShopDT\obj\Debug\QuanLyShopDT.ThongTinCaNhan.resources
+D:\CN .Net\DoAn\QuanLyShopDT\QuanLyShopDT\bin\Debug\QuanLyShopDT.exe.config
+D:\CN .Net\DoAn\QuanLyShopDT\QuanLyShopDT\obj\Debug\QuanLyShopDT.exe
+D:\CN .Net\DoAn\QuanLyShopDT\QuanLyShopDT\obj\Debug\QuanLyShopDT.pdb
+D:\CN .Net\DoAn\QuanLyShopDT\QuanLyShopDT\bin\Debug\QuanLyShopDT.exe
+D:\CN .Net\DoAn\QuanLyShopDT\QuanLyShopDT\bin\Debug\QuanLyShopDT.pdb
+D:\CN .Net\DoAn\QuanLyShopDT\QuanLyShopDT\obj\Debug\QuanLyShopDT.csprojResolveAssemblyReference.cache
+D:\CN .Net\DoAn\QuanLyShopDT\QuanLyShopDT\obj\Debug\QuanLyShopDT.DangNhap.resources
+D:\CN .Net\DoAn\QuanLyShopDT\QuanLyShopDT\obj\Debug\QuanLyShopDT.Employee.resources
+D:\CN .Net\DoAn\QuanLyShopDT\QuanLyShopDT\obj\Debug\QuanLyShopDT.Main.resources
+D:\CN .Net\DoAn\QuanLyShopDT\QuanLyShopDT\obj\Debug\QuanLyShopDT.Properties.Resources.resources
+D:\CN .Net\DoAn\QuanLyShopDT\QuanLyShopDT\obj\Debug\QuanLyShopDT.SanPham.resources
+D:\CN .Net\DoAn\QuanLyShopDT\QuanLyShopDT\obj\Debug\QuanLyShopDT.ShowHome.resources
+D:\CN .Net\DoAn\QuanLyShopDT\QuanLyShopDT\obj\Debug\QuanLyShopDT.ThongTinCaNhan.resources
+D:\CN .Net\DoAn\QuanLyShopDT\QuanLyShopDT\obj\Debug\QuanLyShopDT.csproj.GenerateResource.Cache
+D:\CN .Net\DoAn\QuanLyShopDT\QuanLyShopDT\obj\Debug\QuanLyShopDT.AddSanPham.resources
+D:\CN .Net\DoAn\QuanLyShopDT\QuanLyShopDT\obj\Debug\QuanLyShopDT.Customer.resources
+C:\Users\Ngo Van Viet\Desktop\QuanLyShopDT\QuanLyShopDT\bin\Debug\QuanLyShopDT.exe.config
+C:\Users\Ngo Van Viet\Desktop\QuanLyShopDT\QuanLyShopDT\obj\Debug\QuanLyShopDT.exe
+C:\Users\Ngo Van Viet\Desktop\QuanLyShopDT\QuanLyShopDT\obj\Debug\QuanLyShopDT.pdb
+C:\Users\Ngo Van Viet\Desktop\QuanLyShopDT\QuanLyShopDT\bin\Debug\QuanLyShopDT.exe
+C:\Users\Ngo Van Viet\Desktop\QuanLyShopDT\QuanLyShopDT\bin\Debug\QuanLyShopDT.pdb
+C:\Users\Ngo Van Viet\Desktop\QuanLyShopDT\QuanLyShopDT\bin\Debug\mscorlib.dll
+C:\Users\Ngo Van Viet\Desktop\QuanLyShopDT\QuanLyShopDT\bin\Debug\normidna.nlp
+C:\Users\Ngo Van Viet\Desktop\QuanLyShopDT\QuanLyShopDT\bin\Debug\normnfc.nlp
+C:\Users\Ngo Van Viet\Desktop\QuanLyShopDT\QuanLyShopDT\bin\Debug\normnfd.nlp
+C:\Users\Ngo Van Viet\Desktop\QuanLyShopDT\QuanLyShopDT\bin\Debug\normnfkc.nlp
+C:\Users\Ngo Van Viet\Desktop\QuanLyShopDT\QuanLyShopDT\bin\Debug\normnfkd.nlp
+C:\Users\Ngo Van Viet\Desktop\QuanLyShopDT\QuanLyShopDT\obj\Debug\QuanLyShopDT.csprojResolveAssemblyReference.cache
+C:\Users\Ngo Van Viet\Desktop\QuanLyShopDT\QuanLyShopDT\obj\Debug\QuanLyShopDT.AddSanPham.resources
+C:\Users\Ngo Van Viet\Desktop\QuanLyShopDT\QuanLyShopDT\obj\Debug\QuanLyShopDT.Customer.resources
+C:\Users\Ngo Van Viet\Desktop\QuanLyShopDT\QuanLyShopDT\obj\Debug\QuanLyShopDT.DangNhap.resources
+C:\Users\Ngo Van Viet\Desktop\QuanLyShopDT\QuanLyShopDT\obj\Debug\QuanLyShopDT.Employee.resources
+C:\Users\Ngo Van Viet\Desktop\QuanLyShopDT\QuanLyShopDT\obj\Debug\QuanLyShopDT.Main.resources
+C:\Users\Ngo Van Viet\Desktop\QuanLyShopDT\QuanLyShopDT\obj\Debug\QuanLyShopDT.Properties.Resources.resources
+C:\Users\Ngo Van Viet\Desktop\QuanLyShopDT\QuanLyShopDT\obj\Debug\QuanLyShopDT.SanPham.resources
+C:\Users\Ngo Van Viet\Desktop\QuanLyShopDT\QuanLyShopDT\obj\Debug\QuanLyShopDT.ShowHome.resources
+C:\Users\Ngo Van Viet\Desktop\QuanLyShopDT\QuanLyShopDT\obj\Debug\QuanLyShopDT.ThongTinCaNhan.resources
+C:\Users\Ngo Van Viet\Desktop\QuanLyShopDT\QuanLyShopDT\obj\Debug\QuanLyShopDT.csproj.GenerateResource.Cache
+D:\CN .Net\DoAnHoanChinh\QuanLyShopDT\QuanLyShopDT\QuanLyShopDT\bin\Debug\QuanLyShopDT.exe.config
+D:\CN .Net\DoAnHoanChinh\QuanLyShopDT\QuanLyShopDT\QuanLyShopDT\obj\Debug\QuanLyShopDT.exe
+D:\CN .Net\DoAnHoanChinh\QuanLyShopDT\QuanLyShopDT\QuanLyShopDT\obj\Debug\QuanLyShopDT.pdb
+D:\CN .Net\DoAnHoanChinh\QuanLyShopDT\QuanLyShopDT\QuanLyShopDT\obj\Debug\QuanLyShopDT.csprojResolveAssemblyReference.cache
+D:\CN .Net\DoAnHoanChinh\QuanLyShopDT\QuanLyShopDT\QuanLyShopDT\obj\Debug\QuanLyShopDT.AddSanPham.resources
+D:\CN .Net\DoAnHoanChinh\QuanLyShopDT\QuanLyShopDT\QuanLyShopDT\obj\Debug\QuanLyShopDT.Customer.resources
+D:\CN .Net\DoAnHoanChinh\QuanLyShopDT\QuanLyShopDT\QuanLyShopDT\obj\Debug\QuanLyShopDT.DangNhap.resources
+D:\CN .Net\DoAnHoanChinh\QuanLyShopDT\QuanLyShopDT\QuanLyShopDT\obj\Debug\QuanLyShopDT.Employee.resources
+D:\CN .Net\DoAnHoanChinh\QuanLyShopDT\QuanLyShopDT\QuanLyShopDT\obj\Debug\QuanLyShopDT.Main.resources
+D:\CN .Net\DoAnHoanChinh\QuanLyShopDT\QuanLyShopDT\QuanLyShopDT\obj\Debug\QuanLyShopDT.Properties.Resources.resources
+D:\CN .Net\DoAnHoanChinh\QuanLyShopDT\QuanLyShopDT\QuanLyShopDT\obj\Debug\QuanLyShopDT.SanPham.resources
+D:\CN .Net\DoAnHoanChinh\QuanLyShopDT\QuanLyShopDT\QuanLyShopDT\obj\Debug\QuanLyShopDT.ShowHome.resources
+D:\CN .Net\DoAnHoanChinh\QuanLyShopDT\QuanLyShopDT\QuanLyShopDT\obj\Debug\QuanLyShopDT.ThongTinCaNhan.resources
+D:\CN .Net\DoAnHoanChinh\QuanLyShopDT\QuanLyShopDT\QuanLyShopDT\obj\Debug\QuanLyShopDT.csproj.GenerateResource.Cache
+D:\CN .Net\DoAnHoanChinh\QuanLyShopDT\QuanLyShopDT\QuanLyShopDT\bin\Debug\QuanLyShopDT.exe
+D:\CN .Net\DoAnHoanChinh\QuanLyShopDT\QuanLyShopDT\QuanLyShopDT\bin\Debug\QuanLyShopDT.pdb
+C:\Users\hufi\Desktop\DoAnHoanChinh\QuanLyShopDT\QuanLyShopDT\QuanLyShopDT\bin\Debug\QuanLyShopDT.exe.config
+C:\Users\hufi\Desktop\DoAnHoanChinh\QuanLyShopDT\QuanLyShopDT\QuanLyShopDT\obj\Debug\QuanLyShopDT.exe
+C:\Users\hufi\Desktop\DoAnHoanChinh\QuanLyShopDT\QuanLyShopDT\QuanLyShopDT\obj\Debug\QuanLyShopDT.pdb
+C:\Users\hufi\Desktop\DoAnHoanChinh\QuanLyShopDT\QuanLyShopDT\QuanLyShopDT\bin\Debug\QuanLyShopDT.exe
+C:\Users\hufi\Desktop\DoAnHoanChinh\QuanLyShopDT\QuanLyShopDT\QuanLyShopDT\bin\Debug\QuanLyShopDT.pdb
+C:\Users\hufi\Desktop\DoAnHoanChinh\QuanLyShopDT\QuanLyShopDT\QuanLyShopDT\obj\Debug\QuanLyShopDT.csprojResolveAssemblyReference.cache
+C:\Users\hufi\Desktop\DoAnHoanChinh\QuanLyShopDT\QuanLyShopDT\QuanLyShopDT\obj\Debug\QuanLyShopDT.AddSanPham.resources
+C:\Users\hufi\Desktop\DoAnHoanChinh\QuanLyShopDT\QuanLyShopDT\QuanLyShopDT\obj\Debug\QuanLyShopDT.Customer.resources
+C:\Users\hufi\Desktop\DoAnHoanChinh\QuanLyShopDT\QuanLyShopDT\QuanLyShopDT\obj\Debug\QuanLyShopDT.DangNhap.resources
+C:\Users\hufi\Desktop\DoAnHoanChinh\QuanLyShopDT\QuanLyShopDT\QuanLyShopDT\obj\Debug\QuanLyShopDT.Employee.resources
+C:\Users\hufi\Desktop\DoAnHoanChinh\QuanLyShopDT\QuanLyShopDT\QuanLyShopDT\obj\Debug\QuanLyShopDT.Main.resources
+C:\Users\hufi\Desktop\DoAnHoanChinh\QuanLyShopDT\QuanLyShopDT\QuanLyShopDT\obj\Debug\QuanLyShopDT.Properties.Resources.resources
+C:\Users\hufi\Desktop\DoAnHoanChinh\QuanLyShopDT\QuanLyShopDT\QuanLyShopDT\obj\Debug\QuanLyShopDT.SanPham.resources
+C:\Users\hufi\Desktop\DoAnHoanChinh\QuanLyShopDT\QuanLyShopDT\QuanLyShopDT\obj\Debug\QuanLyShopDT.ShowHome.resources
+C:\Users\hufi\Desktop\DoAnHoanChinh\QuanLyShopDT\QuanLyShopDT\QuanLyShopDT\obj\Debug\QuanLyShopDT.ThongTinCaNhan.resources
+C:\Users\hufi\Desktop\DoAnHoanChinh\QuanLyShopDT\QuanLyShopDT\QuanLyShopDT\obj\Debug\QuanLyShopDT.csproj.GenerateResource.Cache
+C:\Users\Ngo Van Viet\Desktop\DoAnHoanChinh\QuanLyShopDT\QuanLyShopDT\QuanLyShopDT\bin\Debug\QuanLyShopDT.exe.config
+C:\Users\Ngo Van Viet\Desktop\DoAnHoanChinh\QuanLyShopDT\QuanLyShopDT\QuanLyShopDT\obj\Debug\QuanLyShopDT.exe
+C:\Users\Ngo Van Viet\Desktop\DoAnHoanChinh\QuanLyShopDT\QuanLyShopDT\QuanLyShopDT\obj\Debug\QuanLyShopDT.pdb
+C:\Users\Ngo Van Viet\Desktop\DoAnHoanChinh\QuanLyShopDT\QuanLyShopDT\QuanLyShopDT\bin\Debug\QuanLyShopDT.exe
+C:\Users\Ngo Van Viet\Desktop\DoAnHoanChinh\QuanLyShopDT\QuanLyShopDT\QuanLyShopDT\bin\Debug\QuanLyShopDT.pdb
+C:\Users\Ngo Van Viet\Desktop\DoAnHoanChinh\QuanLyShopDT\QuanLyShopDT\QuanLyShopDT\bin\Debug\mscorlib.dll
+C:\Users\Ngo Van Viet\Desktop\DoAnHoanChinh\QuanLyShopDT\QuanLyShopDT\QuanLyShopDT\bin\Debug\normidna.nlp
+C:\Users\Ngo Van Viet\Desktop\DoAnHoanChinh\QuanLyShopDT\QuanLyShopDT\QuanLyShopDT\bin\Debug\normnfc.nlp
+C:\Users\Ngo Van Viet\Desktop\DoAnHoanChinh\QuanLyShopDT\QuanLyShopDT\QuanLyShopDT\bin\Debug\normnfd.nlp
+C:\Users\Ngo Van Viet\Desktop\DoAnHoanChinh\QuanLyShopDT\QuanLyShopDT\QuanLyShopDT\bin\Debug\normnfkc.nlp
+C:\Users\Ngo Van Viet\Desktop\DoAnHoanChinh\QuanLyShopDT\QuanLyShopDT\QuanLyShopDT\bin\Debug\normnfkd.nlp
+C:\Users\Ngo Van Viet\Desktop\DoAnHoanChinh\QuanLyShopDT\QuanLyShopDT\QuanLyShopDT\obj\Debug\QuanLyShopDT.csprojResolveAssemblyReference.cache
+C:\Users\Ngo Van Viet\Desktop\DoAnHoanChinh\QuanLyShopDT\QuanLyShopDT\QuanLyShopDT\obj\Debug\QuanLyShopDT.AddSanPham.resources
+C:\Users\Ngo Van Viet\Desktop\DoAnHoanChinh\QuanLyShopDT\QuanLyShopDT\QuanLyShopDT\obj\Debug\QuanLyShopDT.Customer.resources
+C:\Users\Ngo Van Viet\Desktop\DoAnHoanChinh\QuanLyShopDT\QuanLyShopDT\QuanLyShopDT\obj\Debug\QuanLyShopDT.DangNhap.resources
+C:\Users\Ngo Van Viet\Desktop\DoAnHoanChinh\QuanLyShopDT\QuanLyShopDT\QuanLyShopDT\obj\Debug\QuanLyShopDT.Employee.resources
+C:\Users\Ngo Van Viet\Desktop\DoAnHoanChinh\QuanLyShopDT\QuanLyShopDT\QuanLyShopDT\obj\Debug\QuanLyShopDT.Main.resources
+C:\Users\Ngo Van Viet\Desktop\DoAnHoanChinh\QuanLyShopDT\QuanLyShopDT\QuanLyShopDT\obj\Debug\QuanLyShopDT.Properties.Resources.resources
+C:\Users\Ngo Van Viet\Desktop\DoAnHoanChinh\QuanLyShopDT\QuanLyShopDT\QuanLyShopDT\obj\Debug\QuanLyShopDT.SanPham.resources
+C:\Users\Ngo Van Viet\Desktop\DoAnHoanChinh\QuanLyShopDT\QuanLyShopDT\QuanLyShopDT\obj\Debug\QuanLyShopDT.ShowHome.resources
+C:\Users\Ngo Van Viet\Desktop\DoAnHoanChinh\QuanLyShopDT\QuanLyShopDT\QuanLyShopDT\obj\Debug\QuanLyShopDT.ThongTinCaNhan.resources
+C:\Users\Ngo Van Viet\Desktop\DoAnHoanChinh\QuanLyShopDT\QuanLyShopDT\QuanLyShopDT\obj\Debug\QuanLyShopDT.csproj.GenerateResource.Cache
+C:\Users\Ngo Van Viet\Desktop\DoAnHoanChinh\QuanLyShopDT\QuanLyShopDT\QuanLyShopDT\obj\Debug\QuanLyShopDT.ThongKe_SPTonKho.resources
+C:\Users\Ngo Van Viet\Desktop\DoAnHoanChinh\QuanLyShopDT\QuanLyShopDT\QuanLyShopDT\obj\Debug\QuanLyShopDT.ThongKeNhapHang.resources
+C:\Users\Ngo Van Viet\Desktop\DoAnHoanChinh\QuanLyShopDT\QuanLyShopDT\QuanLyShopDT\obj\Debug\QuanLyShopDT.HoaDonNhapSP.resources
+C:\Users\wintr\OneDrive\Máy tính\DoAn_CNNET\DoAn_CNNET\QuanLyShopDT\QuanLyShopDT\QuanLyShopDT\bin\Debug\QuanLyShopDT.exe.config
+C:\Users\wintr\OneDrive\Máy tính\DoAn_CNNET\DoAn_CNNET\QuanLyShopDT\QuanLyShopDT\QuanLyShopDT\obj\Debug\QuanLyShopDT.exe
+C:\Users\wintr\OneDrive\Máy tính\DoAn_CNNET\DoAn_CNNET\QuanLyShopDT\QuanLyShopDT\QuanLyShopDT\obj\Debug\QuanLyShopDT.pdb
+C:\Users\wintr\OneDrive\Máy tính\DoAn_CNNET\DoAn_CNNET\QuanLyShopDT\QuanLyShopDT\QuanLyShopDT\obj\Debug\QuanLyShopDT.csprojResolveAssemblyReference.cache
+C:\Users\wintr\OneDrive\Máy tính\DoAn_CNNET\DoAn_CNNET\QuanLyShopDT\QuanLyShopDT\QuanLyShopDT\obj\Debug\QuanLyShopDT.AddSanPham.resources
+C:\Users\wintr\OneDrive\Máy tính\DoAn_CNNET\DoAn_CNNET\QuanLyShopDT\QuanLyShopDT\QuanLyShopDT\obj\Debug\QuanLyShopDT.Customer.resources
+C:\Users\wintr\OneDrive\Máy tính\DoAn_CNNET\DoAn_CNNET\QuanLyShopDT\QuanLyShopDT\QuanLyShopDT\obj\Debug\QuanLyShopDT.DangNhap.resources
+C:\Users\wintr\OneDrive\Máy tính\DoAn_CNNET\DoAn_CNNET\QuanLyShopDT\QuanLyShopDT\QuanLyShopDT\obj\Debug\QuanLyShopDT.Employee.resources
+C:\Users\wintr\OneDrive\Máy tính\DoAn_CNNET\DoAn_CNNET\QuanLyShopDT\QuanLyShopDT\QuanLyShopDT\obj\Debug\QuanLyShopDT.HoaDonNhapSP.resources
+C:\Users\wintr\OneDrive\Máy tính\DoAn_CNNET\DoAn_CNNET\QuanLyShopDT\QuanLyShopDT\QuanLyShopDT\obj\Debug\QuanLyShopDT.Main.resources
+C:\Users\wintr\OneDrive\Máy tính\DoAn_CNNET\DoAn_CNNET\QuanLyShopDT\QuanLyShopDT\QuanLyShopDT\obj\Debug\QuanLyShopDT.Properties.Resources.resources
+C:\Users\wintr\OneDrive\Máy tính\DoAn_CNNET\DoAn_CNNET\QuanLyShopDT\QuanLyShopDT\QuanLyShopDT\obj\Debug\QuanLyShopDT.SanPham.resources
+C:\Users\wintr\OneDrive\Máy tính\DoAn_CNNET\DoAn_CNNET\QuanLyShopDT\QuanLyShopDT\QuanLyShopDT\obj\Debug\QuanLyShopDT.ShowHome.resources
+C:\Users\wintr\OneDrive\Máy tính\DoAn_CNNET\DoAn_CNNET\QuanLyShopDT\QuanLyShopDT\QuanLyShopDT\obj\Debug\QuanLyShopDT.ThongKeNhapHang.resources
+C:\Users\wintr\OneDrive\Máy tính\DoAn_CNNET\DoAn_CNNET\QuanLyShopDT\QuanLyShopDT\QuanLyShopDT\obj\Debug\QuanLyShopDT.ThongKe_SPTonKho.resources
+C:\Users\wintr\OneDrive\Máy tính\DoAn_CNNET\DoAn_CNNET\QuanLyShopDT\QuanLyShopDT\QuanLyShopDT\obj\Debug\QuanLyShopDT.ThongTinCaNhan.resources
+C:\Users\wintr\OneDrive\Máy tính\DoAn_CNNET\DoAn_CNNET\QuanLyShopDT\QuanLyShopDT\QuanLyShopDT\obj\Debug\QuanLyShopDT.csproj.GenerateResource.Cache
+C:\Users\wintr\OneDrive\Máy tính\DoAn_CNNET\DoAn_CNNET\QuanLyShopDT\QuanLyShopDT\QuanLyShopDT\bin\Debug\QuanLyShopDT.exe
+C:\Users\wintr\OneDrive\Máy tính\DoAn_CNNET\DoAn_CNNET\QuanLyShopDT\QuanLyShopDT\QuanLyShopDT\bin\Debug\QuanLyShopDT.pdb
